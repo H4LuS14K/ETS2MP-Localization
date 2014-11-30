@@ -61,7 +61,7 @@ $_lang["unable.to.activate"] = "Nemožno aktivovať účet. Nesprávny odkaz ale
 $_lang["not.activated"] = "Váš účet ešte nie je aktivovaný. Ak vám neprišiel aktivačný email, kliknite <a href=\"index.php?action=resendActivation\">sem</a> pre opätovné zaslanie e-mailu.";
 $_lang["force.password.change"] = "Prosím, okamžite si zmeňte heslo! Kliknite <a href=\"index.php?page=editAccount\">sem</a>!";
 $_lang["forgot.password.link.sent"] = "Skontrolujte si svoj e-mail. Zaslali sme Vám odkaz na zmenu hesla.";
-$_lang["forgot.password.sent"] = "Skontrolujte si svoj e-mail.Zaslali sme Vám nové heslo.";
+$_lang["forgot.password.sent"] = "Skontrolujte si svoj e-mail. Zaslali sme Vám nové heslo.";
 $_lang["forgot.password.invalid.key"] = "Neplatný odkaz pre zmenu hesla.";
 $_lang["activation.key.resent"] = "Nový aktivačný odkaz bol odoslaný na Váš e-mail.";
 $_lang["activation.mail.title"] = "ETS2MP aktivácia účtu.";
