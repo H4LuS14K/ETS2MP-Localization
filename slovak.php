@@ -88,4 +88,4 @@ $_lang["contact.message.too.short"] = "Správa je príliš krátka. Musí obsaho
 $_lang["contact.topic.too.short"] = "Názov témy je príliš krátky. Použite minimálne 10 znakov.";
 $_lang["steamid.in.use"] = "Boli nájdené ETS2MP účty pripojené k tomuto Steam účtu. Ak máte problémy s registráciou, prosím <a href=\"http://ets2mp.com/index.php?page=contact\">kontaktujte nás</a>.";
 $_lang["mail.does.not.match"] = "Zadaná e-mailová adresa sa nezhoduje.";
-$_lang["support"] = "Pomoc";
+$_lang["support"] = "Podpora";
